@@ -501,6 +501,11 @@ footer{
 .contact__container{
     width: 80%;
 }
+
+.form{
+    height: 6rem;
+    flex-direction: column;
+}
 /* FOOTER */
 footer{
     padding-top: 3rem;
